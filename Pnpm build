@@ -1,7 +1,8 @@
-Nextjs.org : run pnpm build commercial shoppers 
+nextjs 13 : Nextjs.org deploy run pnpm build commercial shoppers 
   run : start building on next run
     use : remix for additional features 
        purpose: a place to buy and sell anything available 
          *other platforms to help building
           builder.io
            Contentful 
+      output: github (export to external websites)
